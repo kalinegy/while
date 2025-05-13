@@ -7,6 +7,6 @@ while num != 0:
     else:
         print("Número negativo, tente novamente")
     num= int(input("Digite outro número(0 para parar):"))
-    print(f"A soma é {soma}")
+print(f"A soma é {soma}")
 
 #não soma
